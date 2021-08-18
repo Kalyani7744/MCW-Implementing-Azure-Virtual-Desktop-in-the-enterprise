@@ -2023,3 +2023,4 @@ Duration:  15 minutes
 6. Repeat these steps for all **Resource groups** created for this lab, including those for **Azure Monitor** and **Log Analytics**.
    
 You should follow all steps provided *after* attending the Hands-on lab.
+
